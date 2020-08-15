@@ -5,11 +5,13 @@ a{
 	text-decoration: none;
 	color: #000C40;
 }
+.css{
+	background-image: url(https://github.com/kikeluis395/kikeluis395.github.com/blob/master/boletines/potter.jpg);
+}
 .title{
 	text-transform: uppercase;
 }
 .container{
-	background-image: url(C:\Users\MARIA SALOME\Desktop\Nueva carpeta\github\kikeluis395.github.com\boletines/potter.jpg);
 	height: 100vh;
 	display: flex;
 	align-items: center;
